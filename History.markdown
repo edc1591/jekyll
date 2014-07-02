@@ -4,11 +4,17 @@
 
 ### Minor Enhancements
 
-  * Patch read vulnerabilities for data & confirm none for layouts (#2563)
-
 ### Bug Fixes
 
 ### Development Fixes
+
+### Site Enhancements
+
+## 2.1.1 / 2014-07-01
+
+### Bug Fixes
+
+  * Patch read vulnerabilities for data & confirm none for layouts (#2563)
 
 ### Site Enhancements
 
